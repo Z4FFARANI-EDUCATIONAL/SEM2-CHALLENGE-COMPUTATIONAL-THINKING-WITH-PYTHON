@@ -1,0 +1,190 @@
+{
+    "circuito": {
+        "formula1": [
+            {
+                "nome": "Monza",
+                "tipo": "Velocidade",
+                "comprimento": 5.793,
+                "velocidade_media": 250
+            },
+            {
+                "nome": "Monaco",
+                "tipo": "Travado",
+                "comprimento": 3.337,
+                "velocidade_media": 160
+            },
+            {
+                "nome": "Silverstone",
+                "tipo": "Misto",
+                "velocidade_media": 220
+            },
+            {
+                "nome": "Montreal",
+                "tipo": "Alta velocidade",
+                "comprimento": 4.361,
+                "velocidade_media": 240
+            },
+            {
+                "nome": "Interlagos",
+                "tipo": "Misto",
+                "comprimento": 4.309,
+                "velocidade_media": 210
+            }
+        ],
+        "formula2": [
+            {
+                "nome": "Bahrain",
+                "tipo": "Misto",
+                "comprimento": 5.412,
+                "velocidade_media": 210
+            },
+            {
+                "nome": "Monaco",
+                "tipo": "Travado",
+                "comprimento": 3.337,
+                "velocidade_media": 140
+            },
+            {
+                "nome": "Silverstone",
+                "tipo": "Misto",
+                "comprimento": 5.891,
+                "velocidade_media": 200
+            },
+            {
+                "nome": "Baku",
+                "tipo": "Alta velocidade",
+                "comprimento": 6.003,
+                "velocidade_media": 230
+            },
+            {
+                "nome": "Spa-Francorchamps",
+                "tipo": "Misto",
+                "velocidade_media": 210
+            }
+        ],
+        "formula3": [
+            {
+                "nome": "Red Bull Ring",
+                "tipo": "Misto",
+                "comprimento": 4.318,
+                "velocidade_media": 190
+            },
+            {
+                "nome": "Monaco",
+                "tipo": "Travado",
+                "comprimento": 3.337,
+                "velocidade_media": 130
+            },
+            {
+                "nome": "Hungaroring",
+                "tipo": "Travado",
+                "comprimento": 4.381,
+                "velocidade_media": 150
+            },
+            {
+                "nome": "Zandvoort",
+                "tipo": "Misto",
+                "comprimento": 4.259,
+                "velocidade_media": 180
+            },
+            {
+                "nome": "Silverstone",
+                "tipo": "Misto",
+                "comprimento": 5.891,
+                "velocidade_media": 200
+            }
+        ],
+        "formulaE": [
+            {
+                "nome": "Berlim",
+                "tipo": "Travado",
+                "comprimento": 2.355,
+                "velocidade_media": 140
+            },
+            {
+                "nome": "Monaco",
+                "tipo": "Travado",
+                "comprimento": 3.337,
+                "velocidade_media": 130
+            },
+            {
+                "nome": "Riyadh",
+                "tipo": "Misto",
+                "comprimento": 2.495,
+                "velocidade_media": 150
+            },
+            {
+                "nome": "Cidade do Mexico",
+                "tipo": "Alta velocidade",
+                "comprimento": 2.606,
+                "velocidade_media": 160
+            },
+            {
+                "nome": "Roma",
+                "tipo": "Misto",
+                "comprimento": 3.385,
+                "velocidade_media": 145
+            }
+        ],
+        "formulaindy": [
+            {
+                "nome": "Indianapolis",
+                "tipo": "Oval",
+                "comprimento": 4.023,
+                "velocidade_media": 360
+            },
+            {
+                "nome": "Long Beach",
+                "tipo": "Travado",
+                "comprimento": 3.167,
+                "velocidade_media": 175
+            },
+            {
+                "nome": "Texas Motor Speedway",
+                "tipo": "Oval",
+                "comprimento": 2.41,
+                "velocidade_media": 370
+            },
+            {
+                "nome": "Road America",
+                "tipo": "Misto",
+                "comprimento": 6.515,
+                "velocidade_media": 220
+            },
+            {
+                "nome": "Laguna Seca",
+                "tipo": "Misto",
+                "comprimento": 3.602,
+                "velocidade_media": 200
+            }
+        ]
+    },
+    
+    "efc": {
+        "formula1": [1],
+        "formula2": [0.9],
+        "formula3": [0.8],
+        "formulaE": [0.8],
+        "formulaindy": [0.95]
+    },
+
+    "peso": {
+        "formula1": [750],
+        "formula2": [755],
+        "formula3": [620],
+        "formulaE": [900],
+        "formulaindy": [730]
+    },
+    
+    "clima": {
+        "seco": [1],
+        "chuvoso": [1.1],
+        "extremo": [1.2]
+    },
+
+    "pneu": {
+        "seco": [1],
+        "chuva": [1.05],
+        "intermediario": [1.1]
+    }
+}

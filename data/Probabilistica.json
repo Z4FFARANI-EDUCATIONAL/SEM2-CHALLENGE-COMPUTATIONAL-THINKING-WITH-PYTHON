@@ -1,0 +1,85 @@
+{
+    "escuderias": [
+        {
+            "nome": "Mahindra Racing",
+            "vitorias": 25,
+            "fator_clima": "seco",
+            "numero_clima": 1,
+            "fator_circuito": "Hong Kong",
+            "numero_circuito": 1
+        },
+        {
+            "nome": "DS Techeetah",
+            "vitorias": 20,
+            "fator_clima": "seco",
+            "numero_clima": 1,
+            "fator_circuito": "Monaco",
+            "numero_circuito": 2
+        },
+        {
+            "nome": "Audi Sport ABT Schaeffler",
+            "vitorias": 15,
+            "fator_clima": "seco",
+            "numero_clima": 1,
+            "fator_circuito": "Berlim",
+            "numero_circuito": 3
+        },
+        {
+            "nome": "Nissan e.Dams",
+            "vitorias": 13,
+            "fator_clima": "chuvoso",
+            "numero_clima": 2,
+            "fator_circuito": "Nova York",
+            "numero_circuito": 4
+        },
+        {
+            "nome": "Jaguar Racing",
+            "vitorias": 10,
+            "fator_clima": "seco",
+            "numero_clima": 1,
+            "fator_circuito": "Cidade do Mexico",
+            "numero_circuito": 5
+        },
+        {
+            "nome": "Envision Virgin Racing",
+            "vitorias": 8,
+            "fator_clima": "chuvoso",
+            "numero_clima": 2,
+            "fator_circuito": "Santiago",
+            "numero_circuito": 6
+        },
+        {
+            "nome": "Mercedes-Benz EQ",
+            "vitorias": 12,
+            "fator_clima": "seco",
+            "numero_clima": 1,
+            "fator_circuito": "Londres",
+            "numero_circuito": 7
+        },
+        {
+            "nome": "Porsche Formula E",
+            "vitorias": 6,
+            "fator_clima": "chuvoso",
+            "numero_clima": 2,
+            "fator_circuito": "Roma",
+            "numero_circuito": 8
+        },
+        {
+            "nome": "Dragon/Penske Autosport",
+            "vitorias": 2,
+            "fator_clima": "chuvoso",
+            "numero_clima": 2,
+            "fator_circuito": "Paris",
+            "numero_circuito": 9
+        },
+        {
+            "nome": "Venturi Racing",
+            "vitorias": 4,
+            "fator_clima": "seco",
+            "numero_clima": 1,
+            "fator_circuito": "Valencia",
+            "numero_circuito": 10
+        }
+    ]
+  }
+  
