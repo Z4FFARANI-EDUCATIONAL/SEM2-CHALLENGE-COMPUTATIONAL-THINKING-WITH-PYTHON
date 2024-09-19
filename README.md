@@ -11,7 +11,7 @@
 
 <br>
 
-# SOBRE O PROJETO
+# PROJETO
 A **[Tech Mahindra](https://www.techmahindra.com)**, em parceria com a **[FIAP](https://www.fiap.com.br)**, busca popularizar a Fórmula E por meio de soluções tecnológicas práticas e interativas. Portanto, este projeto é uma simulação interativa que permite ao usuário explorar o mundo da Fórmula E de maneira imersiva. O usuário pode calcular o Índice de Performance de Fórmula (IPF) para diversas modalidades de corridas, além de apostar em escuderias no modo probabilístico, usando os Blitz Points como moeda interna do sistema.
 
 O programa é composto por três sistemas principais:
@@ -22,7 +22,7 @@ O programa é composto por três sistemas principais:
 
 <br>
 
-# INSTRUÇÕES DE USO
+# INSTRUÇÕES
 Para rodar o programa, executar o arquivo ```Home.py``` exibirá um menu interativo onde o usuário poderá escolher entre calcular o IPF, fazer apostas ou visualizar o funcionamento dos Blitz Points.
 
 Após selecionar a opção IPF, o usuário pode escolher entre cinco diferentes modalidades de corrida: Fórmula 1, Fórmula 2, Fórmula 3, Fórmula E e Fórmula Indy. O sistema incrementa os Blitz a cada cálculo realizado.
@@ -33,7 +33,7 @@ Os Blitz Points são acumulados ao interagir com o sistema. O sistema detalha co
 
 <br>
 
-# OPERAÇÕES
+# FUNÇÕES
 ``IPF.py``:
 - **comprimento_circuito** | Comprimento do circuito escolhido pelo usuário em quilômetros, que é obtido de ``IPF.json``.
 - **Tvolta = comprimento_circuito / velocidade_media * 60** | Cálculo de tempo de uma volta no circuito. Velocidade média, é do circuito, sendo resgatado em ``IPF.json``.
@@ -57,21 +57,26 @@ Os Blitz Points são acumulados ao interagir com o sistema. O sistema detalha co
 
 <br>
 
-# REQUISITOS
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-- **[Instalar Python](https://www.python.org/downloads/)**
-- **[Instalar Pandas](https://pandas.pydata.org/docs/getting_started/install.html)**
+# FLUXOGRAMA
+![fluxograma](./assets/fluxograma.png)
 
 <br>
 
 # OBSERVAÇÕES
 - Alguns valores dispostos em arquivos não condizem com a realidade e apenas servem para fins educativos.
 - A importação e estabelecimento de parâmetros em funções permitem conexão entre arquivos e bibliotecas.
-- Textos que são exibidos durante a execução do programa estão fora de identação no código para melhor visualização. 
+- Textos que são exibidos durante a execução do programa estão fora de identação nos códigos para melhor visualização. 
 - O arquivo ``Blitz.json`` é criado e utilizado para armazenar e carregar o saldo em Blitz do usuário por mais que o programa se encerre.
 - O arquivo ``Probabilistica.py`` inclui um conjunto de dados em ``Probabilistica.json`` que contém informações sobre as escuderias de Fórmula E e fatores cruciais para apostas.
+
+<br>
+
+# TECNOLOGIAS
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+- **[Instalar Python](https://www.python.org/downloads/)**
+- **[Instalar Pandas](https://pandas.pydata.org/docs/getting_started/install.html)**
 
 <br>
 
