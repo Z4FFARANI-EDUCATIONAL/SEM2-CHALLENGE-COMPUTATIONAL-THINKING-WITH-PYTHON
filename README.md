@@ -72,11 +72,8 @@ Os Blitz Points são acumulados ao interagir com o sistema. O sistema detalha co
 <br>
 
 # TECNOLOGIAS
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-- **[Instalar Python](https://www.python.org/downloads/)**
-- **[Instalar Pandas](https://pandas.pydata.org/docs/getting_started/install.html)**
+**[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/downloads/)**
+**[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/getting_started/install.html)**
 
 <br>
 
