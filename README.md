@@ -23,17 +23,17 @@ O programa é composto por três sistemas principais:
 <br>
 
 # INSTRUÇÕES DE USO
-Para rodar o programa, execute o arquivo ```Home.py```. Será exibido um menu interativo onde o usuário poderá escolher entre calcular o IPF, fazer apostas ou visualizar o funcionamento dos Blitz Points.
+Para rodar o programa, executar o arquivo ```Home.py``` exibirá um menu interativo onde o usuário poderá escolher entre calcular o IPF, fazer apostas ou visualizar o funcionamento dos Blitz Points.
 
 Após selecionar a opção IPF, o usuário pode escolher entre cinco diferentes modalidades de corrida: Fórmula 1, Fórmula 2, Fórmula 3, Fórmula E e Fórmula Indy. O sistema incrementa os Blitz a cada cálculo realizado.
 
-No modo de apostas, o usuário pode apostar na performance de escuderias de Fórmula E. Baseado em fatores como o circuito, clima e posição, o resultado da aposta pode gerar recompensas variáveis, podendo chegar a 1.000.000 de Blitz! O mínimo de Blitz para apostar é de 10.000.
+No modo de apostas, o usuário pode apostar na performance de escuderias de Fórmula E. Baseado em fatores como o circuito, clima e posição, o resultado da aposta pode gerar recompensas variáveis, podendo chegar a 1.000.000 de Blitz. O mínimo de Blitz para começar a apostar é de 10.000.
 
 Os Blitz Points são acumulados ao interagir com o sistema. O sistema detalha como esses pontos são utilizados e acumulados ao selecionar a opção correspondente no menu.
 
 <br>
 
-# FUNCIONALIDADES
+# OPERAÇÕES
 ``IPF.py``:
 - **comprimento_circuito** | Comprimento do circuito escolhido pelo usuário em quilômetros, que é obtido de ``IPF.json``.
 - **Tvolta = comprimento_circuito / velocidade_media * 60** | Cálculo de tempo de uma volta no circuito. Velocidade média, é do circuito, sendo resgatado em ``IPF.json``.
@@ -67,9 +67,11 @@ Os Blitz Points são acumulados ao interagir com o sistema. O sistema detalha co
 <br>
 
 # OBSERVAÇÕES
-- Alguns valores dispostos em arquivos não condizem com a realidade e apenas servem para fins educativos. 
+- Alguns valores dispostos em arquivos não condizem com a realidade e apenas servem para fins educativos.
+- A importação e estabelecimento de parâmetros em funções permitem conexão entre arquivos e bibliotecas.
+- Textos que são exibidos durante a execução do programa estão fora de identação no código para melhor visualização. 
 - O arquivo ``Blitz.json`` é criado e utilizado para armazenar e carregar o saldo em Blitz do usuário por mais que o programa se encerre.
-- O arquivo ``Probabilistica.py`` inclui um conjunto de dados em ``Probabilistica.json`` que contém informações sobre as escuderias de Fórmula E e fatores cruciais para aposta.
+- O arquivo ``Probabilistica.py`` inclui um conjunto de dados em ``Probabilistica.json`` que contém informações sobre as escuderias de Fórmula E e fatores cruciais para apostas.
 
 <br>
 
