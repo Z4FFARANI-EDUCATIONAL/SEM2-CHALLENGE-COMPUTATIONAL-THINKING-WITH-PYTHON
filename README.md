@@ -7,7 +7,7 @@
 - **Rafael Menezes Viana** | 558287
 
 ## LINKS
-- **[VÍDEO EXPLICATIVO](https://youtu.be/9yiUBWEhr2g)**
+- **[VÍDEO EXPLICATIVO](https://youtu.be/9yiUBWEhr2g](https://youtu.be/TjPJysby_Hc)**
 
 <br>
 
