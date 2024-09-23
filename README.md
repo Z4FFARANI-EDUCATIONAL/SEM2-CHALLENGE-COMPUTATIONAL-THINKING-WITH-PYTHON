@@ -23,7 +23,9 @@ O programa é composto por três sistemas principais:
 <br>
 
 # INSTRUÇÕES
-Para rodar o programa, executar o arquivo ```Home.py``` exibirá um menu interativo onde o usuário poderá escolher entre calcular o IPF, fazer apostas ou visualizar o funcionamento dos Blitz Points.
+No terminal, clonar o repositório copiando o endereço https://github.com/Z4FFARANI-EDUCATIONAL/SEM2-CHALLENGE-COMPUTATIONAL-THINKING-WITH-PYTHON.git.
+
+Para rodar o programa, no terminal, executar o arquivo ```Home.py``` exibirá um menu interativo onde o usuário poderá escolher entre calcular o IPF, fazer apostas ou visualizar o funcionamento dos Blitz Points.
 
 Após selecionar a opção IPF, o usuário pode escolher entre cinco diferentes modalidades de corrida: Fórmula 1, Fórmula 2, Fórmula 3, Fórmula E e Fórmula Indy. O sistema incrementa os Blitz a cada cálculo realizado.
 
