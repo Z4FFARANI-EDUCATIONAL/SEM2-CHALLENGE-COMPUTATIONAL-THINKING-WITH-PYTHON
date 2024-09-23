@@ -27,9 +27,9 @@ Criar uma pasta no computador para ser o repositório local.
 
 Abrir a pasta criada em uma IDE de preferência.
 
-No terminal da IDE, clonar o repositório com `git clone https://github.com/ENDEREÇO-DO-REPOSITÓRIO-REMOTO.git`
+No terminal da IDE, clonar o repositório com `git clone https://github.com/Z4FFARANI-EDUCATIONAL/SEM2-CHALLENGE-COMPUTATIONAL-THINKING-WITH-PYTHON.git`
 
-No terminal da IDE, navegar até a pasta do projeto com ``cd NOME-DA-PASTA``.
+No terminal da IDE, navegar até a pasta do projeto com ``cd SEM2-CHALLENGE-COMPUTATIONAL-THINKING-WITH-PYTHON``.
 
 Para rodar o programa, no terminal, executar o arquivo ```Home.py``` exibirá um menu interativo onde o usuário poderá escolher entre calcular o IPF, fazer apostas ou visualizar o funcionamento dos Blitz Points.
 
