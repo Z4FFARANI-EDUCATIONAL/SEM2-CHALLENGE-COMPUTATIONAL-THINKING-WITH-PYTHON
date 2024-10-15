@@ -23,15 +23,17 @@ O programa é composto por três sistemas principais:
 <br>
 
 # INSTRUÇÕES
-Criar uma pasta no computador para ser o repositório local.
+1. Em um terminal, clonar o repositório:
+```bash
+git clone https://github.com/Z4FFARANI-EDUCATIONAL/SEM2-CHALLENGE-COMPUTATIONAL-THINKING-WITH-PYTHON.git
+```
 
-Abrir a pasta criada em uma IDE de preferência.
+2. No terminal, navegar até a pasta do projeto:
+```bash
+cd SEM2-CHALLENGE-COMPUTATIONAL-THINKING-WITH-PYTHON
+```
 
-No terminal da IDE, clonar o repositório com `git clone https://github.com/Z4FFARANI-EDUCATIONAL/SEM2-CHALLENGE-COMPUTATIONAL-THINKING-WITH-PYTHON.git`.
-
-No terminal da IDE, navegar até a pasta do projeto com ``cd SEM2-CHALLENGE-COMPUTATIONAL-THINKING-WITH-PYTHON``.
-
-Para rodar o programa, no terminal, executar o arquivo ```Home.py``` exibirá um menu interativo onde o usuário poderá escolher entre calcular o IPF, fazer apostas ou visualizar o funcionamento dos Blitz Points.
+3. No terminal, executar o arquivo ```Home.py``` exibirá um menu interativo onde o usuário poderá escolher entre calcular o IPF, fazer apostas ou visualizar o funcionamento dos Blitz Points.
 
 Após selecionar a opção IPF, o usuário pode escolher entre cinco diferentes modalidades de corrida: Fórmula 1, Fórmula 2, Fórmula 3, Fórmula E e Fórmula Indy. O sistema incrementa os Blitz a cada cálculo realizado.
 
