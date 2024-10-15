@@ -35,11 +35,11 @@ cd SEM2-CHALLENGE-COMPUTATIONAL-THINKING-WITH-PYTHON
 
 3. No terminal, executar o arquivo ```Home.py``` exibirá um menu interativo onde o usuário poderá escolher entre calcular o IPF, fazer apostas ou visualizar o funcionamento dos Blitz Points.
 
-Após selecionar a opção IPF, o usuário pode escolher entre cinco diferentes modalidades de corrida: Fórmula 1, Fórmula 2, Fórmula 3, Fórmula E e Fórmula Indy. O sistema incrementa os Blitz a cada cálculo realizado.
+3.1 Após selecionar a opção IPF, o usuário pode escolher entre cinco diferentes modalidades de corrida: Fórmula 1, Fórmula 2, Fórmula 3, Fórmula E e Fórmula Indy. O sistema incrementa os Blitz a cada cálculo realizado.
 
-No modo de apostas, o usuário pode apostar na performance de escuderias de Fórmula E. Baseado em fatores como o circuito, clima e posição, o resultado da aposta pode gerar recompensas variáveis, podendo chegar a 1.000.000 de Blitz. O mínimo de Blitz para começar a apostar é de 10.000.
+3.2 No modo de apostas, o usuário pode apostar na performance de escuderias de Fórmula E. Baseado em fatores como o circuito, clima e posição, o resultado da aposta pode gerar recompensas variáveis, podendo chegar a 1.000.000 de Blitz. O mínimo de Blitz para começar a apostar é de 10.000.
 
-Os Blitz Points são acumulados ao interagir com o sistema. O sistema detalha como esses pontos são utilizados e acumulados ao selecionar a opção correspondente no menu.
+3.3 Os Blitz Points são acumulados ao interagir com o sistema. O sistema detalha como esses pontos são utilizados e acumulados ao selecionar a opção correspondente no menu.
 
 <br>
 
