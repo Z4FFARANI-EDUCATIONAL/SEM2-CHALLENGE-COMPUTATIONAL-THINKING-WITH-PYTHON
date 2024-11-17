@@ -1,10 +1,10 @@
 ![banner](./assets/banner.png)
 
 # INTEGRANTES:
-- **Guilherme Santos Nunes** | 558989
-- **Kaique Rodrigues Zaffarani** | 556677
-- **Kairo da Silva Silvestre de Carvalho** | 558288
-- **Rafael Menezes Viana** | 558287
+- **Guilherme Santos Nunes**
+- **Kaique Zaffarani**
+- **Kairo da Silva Silvestre de Carvalho**
+- **Rafael Menezes Viana**
 
 ## LINKS
 - **[VÍDEO EXPLICATIVO](https://youtu.be/TjPJysby_Hc)**
