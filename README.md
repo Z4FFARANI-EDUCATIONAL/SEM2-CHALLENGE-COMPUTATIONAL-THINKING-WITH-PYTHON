@@ -1,10 +1,10 @@
 ![banner](./assets/banner.png)
 
 # INTEGRANTES:
-- **Guilherme Santos Nunes**
-- **Kaique Zaffarani**
-- **Kairo da Silva Silvestre de Carvalho**
-- **Rafael Menezes Viana**
+- **[Guilherme Santos Nunes](https://github.com/sannunez)**
+- **[Kairo da Silva Silvestre de Carvalho]**
+- **[Kaique Zaffarani](https://github.com/Z4ffarani)**
+- **[Rafael Menezes Viana](https://github.com/vianafs)**
 
 ## LINKS
 - **[VÍDEO EXPLICATIVO](https://youtu.be/TjPJysby_Hc)**
@@ -12,7 +12,7 @@
 <br>
 
 # PROJETO
-A **[Tech Mahindra](https://www.techmahindra.com)**, em parceria com a **[FIAP](https://www.fiap.com.br)**, busca popularizar a Fórmula E por meio de soluções tecnológicas práticas e interativas. Portanto, este projeto é uma simulação interativa que permite ao usuário explorar o mundo da Fórmula E de maneira imersiva. O usuário pode calcular o Índice de performance de Fórmula (IPF) para diversas modalidades de corridas, além de apostar em escuderias no modo probabilístico, usando blitz como moeda interna do sistema.
+A **[Tech Mahindra](https://www.techmahindra.com)**, em parceria com a **[FIAP](https://www.fiap.com.br)**, busca popularizar a Fórmula E por meio de soluções tecnológicas práticas e interativas. Portanto, este projeto é uma simulação interativa que permite ao usuário explorar o mundo da Fórmula E de maneira imersiva. O usuário pode calcular o índice de performance de Fórmula (IPF) para diversas modalidades de corridas, além de apostar em escuderias no modo probabilístico, usando blitz como moeda interna do sistema.
 
 O programa é composto por três sistemas principais:
 
